@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Aaron Alden
+ * CSCI 352
+ * March 2, 2023
+ * Program.cs
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +17,7 @@ namespace Threading
     {
         static void Main(string[] args)
         {
+            // Stuff
         }
     }
 }
